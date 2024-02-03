@@ -11,7 +11,7 @@ clk: Clock signal for synchronous operation.
 ## Outputs:
 y: Output representing the generated parity bit.
 
-# Working:
+## Working:
 At every positive edge of clock the input bit will be checked, the previous input is also considered while computing the output.
 
 If there are odd number of 1s encountered, the output y=1.
