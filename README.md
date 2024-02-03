@@ -19,12 +19,13 @@ If there are even number of 1s encountered, the output y=0.
 
 ## State Machine diagram
 
-![alt text](image.png)
+![image](https://github.com/dishak14/Layered-TB-for-SPC/assets/92496153/6f8e47a8-ce72-4c8f-807b-e744980eff94)
+
 
 ## RTL 
 
-![alt text](image-1.png)
+![image](https://github.com/dishak14/Layered-TB-for-SPC/assets/92496153/5ede4154-9b82-47c8-a418-02d8de2ce575)
 
 ## Waveform simulation done using parity_tb (behavioural testbench)
 
-![alt text](image-2.png)
+![image](https://github.com/dishak14/Layered-TB-for-SPC/assets/92496153/c193bd4f-ead3-467c-be94-79649c7c6964)
