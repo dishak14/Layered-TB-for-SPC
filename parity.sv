@@ -4,13 +4,12 @@ module parity (
     output logic y
 );
 
-    // Parameter values must be declared using 'localparam'
+
     localparam EVEN = 1'b0, ODD = 1'b1;
 
-    // State variable should be declared as a reg
     reg e_o;
 
-    // Synchronous reset for clarity and best practices
+
     always_ff @(posedge clk) begin
             // State transition logic
             case (e_o)
