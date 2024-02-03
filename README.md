@@ -29,3 +29,6 @@ If there are even number of 1s encountered, the output y=0.
 ## Waveform simulation done using parity_tb (behavioural testbench)
 
 ![image](https://github.com/dishak14/Layered-TB-for-SPC/assets/92496153/c193bd4f-ead3-467c-be94-79649c7c6964)
+
+
+![image](https://github.com/dishak14/Layered-TB-for-SPC/assets/92496153/0fb04bd2-e739-451a-b562-a4127029c7e4)
