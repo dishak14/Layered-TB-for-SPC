@@ -6,6 +6,7 @@ The Verilog module "parity" implements a simple serial parity checker circuit. I
 
 ## Inputs:
 x: Input data bit to be checked for parity.
+
 clk: Clock signal for synchronous operation.
 
 ## Outputs:
