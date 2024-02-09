@@ -1,4 +1,4 @@
-ok# Layered-TB-for-SPC
+# Layered-TB-for-SPC
 This project is a layered testbench for a serial parity checker.
 
 ## Description:
